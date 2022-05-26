@@ -1,1 +1,1 @@
-# SonicGame
+The project I made in order to obtain a Computer Information Technology diploma consists of a game developed in Visual Studio using the C# language. The game is inspireb by the Sonic series, the purpose of it being avoiding robots and collecting coins. It runs on Windows and it has two levels; when the score hits 70, you can pass to the next level. If you touch one robot, the game ends.
